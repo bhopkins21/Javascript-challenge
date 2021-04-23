@@ -1,5 +1,4 @@
-# Javascript-challenge
-# JavaScript Homework - JavaScript and DOM Manipulation
+# Javascript-challeng- JavaScript and DOM Manipulation
 
 ## Background
 
